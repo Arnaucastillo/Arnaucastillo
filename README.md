@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Arnaucastillo
+- 👀 I’m interested in let my creativity flow while i develop
+- 🌱 I’m currently learning JavaScript with React
+- 💞️ I’m have another GitHub account where i do my class projects you can look at it if you want: https://github.com/cf19ArnauCastillo
+- 📫 How to reach me: arnau.castillo.2001@gmail.com or cf19arnau.castillo@iesjoandaustria.org
